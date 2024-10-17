@@ -4,6 +4,7 @@
 <tittle>helloworld</tittle>
 </head>
 <body>
-Hello world!!!
+<h1>Hello world!!!</h1>
+Я учусь работать с Git
 </body>
 </html>
